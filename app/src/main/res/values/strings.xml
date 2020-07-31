@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Porfolio</string>
+
+    <string name="text_job">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem sequi molestias, voluptates, earum explicabo perspiciatis reiciendis ab quas, neque recusandae minus quos. Itaque reiciendis omnis natus sapiente corporis rem ad.</string>
+    <string name="job_name">Software Engineering &amp; Programmer</string>
+    <string name="personal_name">Jesús Mata</string>
+    <string name="personal_description">Soy un estudiante de Ingeniería en Sistemas Computacionales con habilidad en resolución de problemas y
+            experiencia trabajando en
+            equipo así como individual,
+            desarrollando aplicaciones
+            móviles, de escritorio y web para
+            el sector privado y público.</string>
+    <string name="current_job_title">EDUMARK</string>
+    <string name="current_job_description">Actualmente trabajo en EDUMARK como becario de desarrollo de software.</string>
+    <string name="lorem_text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem sequi molestias, voluptates, earum explicabo perspiciatis reiciendis ab quas, neque recusandae minus quos. Itaque reiciendis omnis natus sapiente corporis rem ad.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
