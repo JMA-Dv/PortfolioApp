@@ -44,8 +44,8 @@ public class PortfolioFragment extends Fragment implements PortfolioCallback{
         super.onViewCreated(view, savedInstanceState);
         rvPortfolio = view.findViewById(R.id.rv_porfolio);
         data = new ArrayList<>();
-        data.add(new PortfolioItem(R.drawable.mata,"El mata","adsoib"));
-        data.add(new PortfolioItem(R.drawable.cv_photo));
+        data.add(new PortfolioItem(R.drawable.chambee_icon,"Chambee",getString(R.string.chambee_description)));
+        data.add(new PortfolioItem(R.drawable.mandame_logo, "Mándame",getString(R.string.mandame_description)));
         data.add(new PortfolioItem());
         data.add(new PortfolioItem());
         data.add(new PortfolioItem());
